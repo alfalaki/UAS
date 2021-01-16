@@ -1,0 +1,9 @@
+com/example/PCSUas0592/data/db/AppDatabase_Impl.java
+ com.example.PCSUas0592.data.db.AppDatabase_Impl
+ com.example.PCSUas0592.data.db.AppDatabase_Impl$1
+com/example/PCSUas0592/data/db/dao/FavoriteDao_Impl.java
+ com.example.PCSUas0592.data.db.dao.FavoriteDao_Impl
+ com.example.PCSUas0592.data.db.dao.FavoriteDao_Impl$1
+ com.example.PCSUas0592.data.db.dao.FavoriteDao_Impl$2
+com/example/PCSUas0592/BuildConfig.java
+ com.example.PCSUas0592.BuildConfig
